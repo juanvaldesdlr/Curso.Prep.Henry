@@ -1,0 +1,11 @@
+BUCLE FOR: Se utiliza para repetir una o más instrucciones un determinado número de veces.
+Es decir que, se suele utilizar cuando sabemos el número de veces que queremos que se ejecute o cuando necesitamos que devuelva lo que estamos buscando.
+
+OPERADORES LÓGICOS: Normalmente comparan valores booleanos (true/false) y devuelven respuestas booleanas.
+Con ellos, podemos combinar dos expresiones de igualdad y preguntar si alguna de las dos es verdadera, si ambas son verdaderas o si ninguna de ellas es verdadera.
+
+    AND (&&): Esto evaluará ambas expresiones y devolverá true si AMBAS expresiones son true. Si uno (o ambos) de ellos es false, este operador devolverá false.
+
+    OR (||): Devolverá true si una (o ambas) de las expresiones es true. Devolverá false si AMBAS expresiones son false.
+
+    NOT (!): Este operador lógico está escrito con un solo signo de exclamación <!>. Devolverá el valor booleano opuesto de lo que se le pasa.
